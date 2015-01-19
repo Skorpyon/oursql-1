@@ -1,2 +1,8 @@
-# oursql
-oursql for python 3.x.
+oursql v0.9.4!
+
+Comprehensive documentation for oursql is available online:
+http://packages.python.org/oursql/
+
+The documentation can also be built locally by running `make html` from the 
+'docs' directory (which does require sphinx), or read in their original reST 
+format.
